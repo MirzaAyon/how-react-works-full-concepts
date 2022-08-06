@@ -25,3 +25,6 @@
 //JSX in depth website e niche "the online babel compiler" ache
 //okhane ek side e react er functin dile onno side e babel e dekhabe
 //ekta func , func er vitore return and ekta div diye otar vitore 2 ta tag diye try korbo dekha jabe babel e kivabe change hy
+
+
+//website tae niche babel er compiler ache ota dekhbo
