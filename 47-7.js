@@ -12,4 +12,4 @@ react er virtually build kore dom ache, amdr website e interaction er jnno kotha
 //react version 18 e kono kajer performance lack korle er priority komae dite pari, mane late e krbe
 //onk gula loop ba map korle key dite bole ta nahole warning dibe ete change korte shubidha hbe
 //what is react virtual dom? google
-//
+//diff algo diye main dom er sathe new dom ke compare kore kon part ta change hoise ta ber kore
